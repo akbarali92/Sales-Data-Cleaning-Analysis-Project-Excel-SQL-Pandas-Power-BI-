@@ -1,0 +1,201 @@
+order_id,order_date,customer_id,customer_city,product_category,quantity,price,discount,payment_method,revenue
+4001,23-Mar-25,708,Islamabad,Electronics,3,150,0.05,Debit Card,428
+4002,5-Apr-25,705,Karachi,Clothing,5,200,0,Credit Card,1000
+4003,28-Jan-25,744,Islamabad,Electronics,5,100,0,Cash On Delivery,500
+4004,11-Mar-25,748,Islamabad,Toys,4,250,0.1,Credit Card,900
+4005,14-Apr-25,748,Karachi,Clothing,3,150,0.05,Debit Card,428
+4006,13-Feb-25,738,Islamabad,Clothing,4,50,0.1,Cash On Delivery,180
+4007,3-Feb-25,735,Islamabad,Clothing,5,50,0.15,Credit Card,213
+4008,7-Feb-25,702,Islamabad,Electronics,5,100,0,Credit Card,500
+4009,26-Mar-25,724,Faisalabad,Groceries,1,173,0.05,Credit Card,164
+4010,5-Feb-25,742,Karachi,Electronics,2,150,0.1,Debit Card,270
+4011,4-Feb-25,729,Rawalpindi,Home Decor,5,300,0.05,Debit Card,1425
+4012,18-Feb-25,702,Karachi,Toys,3,150,0,Debit Card,450
+4013,14-Apr-25,745,Karachi,Clothing,3,50,0.05,Cash On Delivery,143
+4014,10-Feb-25,716,Rawalpindi,Clothing,4,300,0.15,Debit Card,1020
+4015,18-Jan-25,725,Multan,Groceries,3,250,0.15,Cash On Delivery,638
+4016,16-Feb-25,707,Karachi,Home Decor,5,200,0,Credit Card,1000
+4017,20-Jan-25,738,Rawalpindi,Clothing,5,50,0.15,Mobile Wallet,213
+4018,1-Mar-25,746,Karachi,Groceries,5,173,0,Cash On Delivery,865
+4019,15-Jan-25,727,Lahore,Groceries,3,150,0,Cash On Delivery,450
+4020,21-Jan-25,748,Lahore,Electronics,3,300,0.1,Cash On Delivery,810
+4021,23-Jan-25,738,Karachi,Clothing,3,150,0,Cash On Delivery,450
+4022,26-Jan-25,738,Karachi,Electronics,2,250,0.1,Credit Card,450
+4023,11-Feb-25,703,Islamabad,Electronics,1,150,0.1,Debit Card,135
+4024,31-Jan-25,748,Islamabad,Clothing,1,300,0.15,Credit Card,255
+4025,10-Mar-25,716,Karachi,Home Decor,3,200,0.1,Debit Card,540
+4026,9-Mar-25,712,Lahore,Clothing,2,250,0,Cash On Delivery,500
+4027,2-Apr-25,733,Faisalabad,Clothing,3,300,0.1,Mobile Wallet,810
+4028,27-Feb-25,737,Islamabad,Toys,2,50,0.1,Credit Card,90
+4029,12-Mar-25,703,Islamabad,Toys,1,50,0,Cash On Delivery,50
+4030,30-Jan-25,717,Multan,Electronics,3,50,0.1,Debit Card,135
+4031,27-Mar-25,736,Islamabad,Toys,5,100,0,Cash On Delivery,500
+4032,2-Mar-25,742,Islamabad,Clothing,4,100,0,Credit Card,400
+4033,25-Feb-25,743,Karachi,Clothing,4,200,0,Credit Card,800
+4034,25-Mar-25,715,Rawalpindi,Electronics,4,300,0.1,Credit Card,1080
+4035,25-Jan-25,729,Lahore,Clothing,2,200,0.05,Cash On Delivery,380
+4036,1-Feb-25,734,Islamabad,Clothing,5,50,0,Cash On Delivery,250
+4037,18-Apr-25,730,Karachi,Clothing,2,100,0.15,Mobile Wallet,170
+4038,28-Jan-25,716,Lahore,Electronics,2,200,0,Mobile Wallet,400
+4039,29-Apr-25,742,Rawalpindi,Groceries,4,300,0,Cash On Delivery,1200
+4040,2-Apr-25,737,Islamabad,Home Decor,2,150,0.05,Credit Card,285
+4041,5-Apr-25,737,Multan,Electronics,3,150,0,Credit Card,450
+4042,3-Mar-25,704,Karachi,Home Decor,1,250,0,Debit Card,250
+4043,18-Mar-25,737,Karachi,Toys,4,50,0.1,Debit Card,180
+4044,18-Mar-25,733,Rawalpindi,Clothing,4,300,0.1,Cash On Delivery,1080
+4045,10-Feb-25,716,Islamabad,Toys,3,300,0.1,Debit Card,810
+4046,20-Feb-25,729,Faisalabad,Groceries,4,150,0,Credit Card,600
+4047,21-Mar-25,716,Multan,Clothing,1,250,0.05,Cash On Delivery,238
+4048,17-Jan-25,728,Islamabad,Clothing,2,150,0.1,Debit Card,270
+4049,17-Apr-25,700,Islamabad,Groceries,5,173,0,Cash On Delivery,865
+4050,27-Mar-25,707,Multan,Groceries,3,50,0.05,Cash On Delivery,143
+4051,24-Apr-25,745,Multan,Home Decor,3,150,0.1,Debit Card,405
+4052,13-Feb-25,705,Lahore,Groceries,5,200,0.1,Credit Card,900
+4053,23-Mar-25,740,Lahore,Groceries,1,50,0.1,Debit Card,45
+4054,3-Feb-25,700,Multan,Clothing,5,300,0.15,Cash On Delivery,1275
+4055,15-Jan-25,735,Islamabad,Home Decor,5,50,0.1,Cash On Delivery,225
+4056,19-Jan-25,722,Karachi,Home Decor,1,150,0.1,Credit Card,135
+4057,27-Jan-25,739,Lahore,Clothing,3,173,0.1,Mobile Wallet,467
+4058,6-Apr-25,701,Islamabad,Toys,2,173,0.05,Mobile Wallet,329
+4059,23-Jan-25,717,Islamabad,Clothing,3,173,0,Debit Card,519
+4060,21-Jan-25,712,Islamabad,Clothing,1,173,0.15,Debit Card,147
+4061,15-Apr-25,701,Karachi,Electronics,3,173,0.05,Debit Card,493
+4062,26-Mar-25,722,Islamabad,Clothing,3,150,0,Cash On Delivery,450
+4063,24-Mar-25,701,Rawalpindi,Clothing,3,173,0.1,Cash On Delivery,467
+4064,15-Jan-25,738,Karachi,Home Decor,5,150,0,Credit Card,750
+4065,25-Feb-25,724,Islamabad,Electronics,4,250,0.1,Credit Card,900
+4066,26-Apr-25,700,Karachi,Toys,3,50,0,Mobile Wallet,150
+4067,8-Mar-25,721,Rawalpindi,Toys,3,200,0,Cash On Delivery,600
+4068,21-Mar-25,742,Islamabad,Clothing,3,150,0.1,Cash On Delivery,405
+4069,22-Feb-25,712,Lahore,Clothing,3,150,0.1,Debit Card,405
+4070,23-Feb-25,735,Lahore,Home Decor,5,250,0.1,Mobile Wallet,1125
+4071,17-Apr-25,738,Karachi,Groceries,3,100,0.15,Cash On Delivery,255
+4072,25-Mar-25,732,Lahore,Clothing,4,200,0,Debit Card,800
+4073,2-Mar-25,739,Faisalabad,Clothing,3,250,0,Cash On Delivery,750
+4074,12-Feb-25,709,Lahore,Toys,3,150,0.05,Debit Card,428
+4075,4-Jan-25,726,Islamabad,Toys,4,250,0,Mobile Wallet,1000
+4076,24-Apr-25,725,Lahore,Toys,3,300,0.15,Mobile Wallet,765
+4077,1-Feb-25,711,Islamabad,Electronics,1,173,0.15,Debit Card,147
+4078,13-Apr-25,729,Faisalabad,Clothing,1,250,0.05,Credit Card,238
+4079,18-Jan-25,727,Islamabad,Electronics,4,250,0,Cash On Delivery,1000
+4080,17-Apr-25,716,Lahore,Clothing,2,300,0.15,Mobile Wallet,510
+4081,7-Apr-25,717,Rawalpindi,Groceries,5,200,0,Debit Card,1000
+4082,26-Feb-25,734,Karachi,Groceries,2,150,0.1,Cash On Delivery,270
+4083,11-Jan-25,745,Islamabad,Home Decor,2,200,0,Debit Card,400
+4084,28-Jan-25,726,Multan,Clothing,4,150,0.1,Mobile Wallet,540
+4085,8-Jan-25,701,Faisalabad,Clothing,4,173,0.1,Cash On Delivery,623
+4086,20-Apr-25,748,Rawalpindi,Clothing,4,50,0.1,Cash On Delivery,180
+4087,19-Feb-25,731,Lahore,Toys,4,100,0.1,Mobile Wallet,360
+4088,4-Jan-25,710,Multan,Electronics,3,300,0.15,Cash On Delivery,765
+4089,18-Apr-25,737,Lahore,Home Decor,5,250,0,Mobile Wallet,1250
+4090,14-Mar-25,711,Rawalpindi,Clothing,3,200,0.05,Mobile Wallet,570
+4091,7-Jan-25,721,Karachi,Clothing,3,100,0.15,Cash On Delivery,255
+4092,8-Apr-25,701,Islamabad,Groceries,4,150,0,Mobile Wallet,600
+4093,6-Apr-25,749,Islamabad,Electronics,3,100,0,Credit Card,300
+4094,25-Mar-25,709,Rawalpindi,Electronics,2,100,0,Cash On Delivery,200
+4095,31-Jan-25,729,Islamabad,Clothing,3,50,0.1,Debit Card,135
+4096,31-Mar-25,745,Islamabad,Electronics,2,250,0.1,Cash On Delivery,450
+4097,15-Jan-25,736,Islamabad,Groceries,1,250,0,Cash On Delivery,250
+4098,28-Mar-25,744,Lahore,Clothing,3,100,0,Cash On Delivery,300
+4099,17-Apr-25,738,Lahore,Clothing,3,173,0.1,Cash On Delivery,467
+4100,14-Apr-25,723,Faisalabad,Electronics,3,250,0.15,Cash On Delivery,638
+4101,9-Jan-25,706,Islamabad,Electronics,1,173,0.15,Mobile Wallet,147
+4102,25-Feb-25,746,Karachi,Clothing,3,100,0.15,Debit Card,255
+4103,8-Mar-25,717,Lahore,Clothing,4,200,0,Cash On Delivery,800
+4104,11-Feb-25,736,Islamabad,Clothing,3,200,0.05,Mobile Wallet,570
+4105,20-Mar-25,731,Faisalabad,Electronics,1,200,0.1,Debit Card,180
+4106,28-Jan-25,717,Lahore,Groceries,3,150,0.1,Cash On Delivery,405
+4107,13-Mar-25,731,Rawalpindi,Toys,1,100,0,Mobile Wallet,100
+4108,13-Mar-25,750,Rawalpindi,Clothing,3,300,0.15,Mobile Wallet,765
+4109,3-Jan-25,719,Islamabad,Groceries,2,200,0,Debit Card,400
+4110,26-Mar-25,727,Islamabad,Electronics,4,250,0.1,Cash On Delivery,900
+4111,6-Apr-25,719,Karachi,Electronics,3,300,0.15,Cash On Delivery,765
+4112,2-Feb-25,747,Karachi,Clothing,3,100,0.1,Credit Card,270
+4113,10-Mar-25,746,Faisalabad,Toys,2,300,0.15,Cash On Delivery,510
+4114,17-Mar-25,714,Faisalabad,Groceries,1,173,0.05,Cash On Delivery,164
+4115,16-Feb-25,717,Faisalabad,Groceries,1,300,0.1,Debit Card,270
+4116,6-Jan-25,706,Multan,Groceries,3,100,0,Mobile Wallet,300
+4117,22-Apr-25,711,Lahore,Groceries,4,200,0.15,Cash On Delivery,680
+4118,7-Jan-25,731,Karachi,Clothing,1,173,0,Mobile Wallet,173
+4119,10-Jan-25,705,Lahore,Electronics,2,100,0.1,Cash On Delivery,180
+4120,1-Feb-25,749,Karachi,Clothing,5,250,0.1,Debit Card,1125
+4121,8-Mar-25,719,Faisalabad,Clothing,4,150,0.1,Mobile Wallet,540
+4122,14-Mar-25,740,Rawalpindi,Electronics,5,300,0,Debit Card,1500
+4123,28-Jan-25,704,Rawalpindi,Clothing,2,100,0.05,Cash On Delivery,190
+4124,21-Jan-25,718,Faisalabad,Clothing,4,300,0.1,Mobile Wallet,1080
+4125,5-Jan-25,704,Islamabad,Groceries,3,150,0,Mobile Wallet,450
+4126,29-Mar-25,727,Islamabad,Groceries,3,250,0,Debit Card,750
+4127,15-Jan-25,704,Faisalabad,Toys,3,100,0.1,Debit Card,270
+4128,8-Jan-25,728,Karachi,Groceries,5,300,0.1,Cash On Delivery,1350
+4129,16-Jan-25,734,Islamabad,Groceries,3,200,0.1,Cash On Delivery,540
+4130,5-Mar-25,720,Lahore,Clothing,5,50,0.15,Cash On Delivery,213
+4131,19-Mar-25,737,Lahore,Electronics,1,100,0,Cash On Delivery,100
+4132,3-Jan-25,728,Islamabad,Electronics,2,200,0.1,Cash On Delivery,360
+4133,28-Apr-25,705,Karachi,Home Decor,5,200,0,Mobile Wallet,1000
+4134,2-Mar-25,710,Karachi,Clothing,3,150,0,Credit Card,450
+4135,12-Feb-25,702,Multan,Clothing,3,300,0.15,Cash On Delivery,765
+4136,28-Feb-25,732,Islamabad,Electronics,3,150,0,Mobile Wallet,450
+4137,16-Apr-25,723,Karachi,Clothing,4,50,0.05,Cash On Delivery,190
+4138,21-Mar-25,708,Islamabad,Clothing,1,100,0.1,Cash On Delivery,90
+4139,29-Apr-25,740,Multan,Clothing,3,200,0,Credit Card,600
+4140,19-Mar-25,726,Islamabad,Home Decor,3,250,0,Cash On Delivery,750
+4141,12-Jan-25,731,Rawalpindi,Clothing,4,50,0,Debit Card,200
+4142,30-Apr-25,715,Karachi,Groceries,4,173,0.15,Mobile Wallet,588
+4143,28-Feb-25,747,Islamabad,Home Decor,4,100,0.1,Cash On Delivery,360
+4144,23-Apr-25,750,Faisalabad,Clothing,3,173,0.15,Cash On Delivery,441
+4145,6-Mar-25,737,Lahore,Electronics,3,300,0.1,Cash On Delivery,810
+4146,26-Mar-25,721,Lahore,Home Decor,4,250,0.15,Cash On Delivery,850
+4147,12-Mar-25,715,Islamabad,Clothing,4,150,0.05,Cash On Delivery,570
+4148,15-Mar-25,730,Rawalpindi,Toys,4,50,0.1,Cash On Delivery,180
+4149,1-Apr-25,731,Islamabad,Clothing,3,173,0,Debit Card,519
+4150,5-Jan-25,733,Lahore,Electronics,1,173,0.15,Credit Card,147
+4151,27-Apr-25,709,Lahore,Electronics,3,100,0.15,Cash On Delivery,255
+4152,10-Jan-25,741,Faisalabad,Groceries,3,250,0,Mobile Wallet,750
+4153,11-Jan-25,734,Multan,Clothing,3,300,0,Mobile Wallet,900
+4154,5-Jan-25,714,Lahore,Clothing,2,300,0,Cash On Delivery,600
+4155,6-Apr-25,706,Karachi,Clothing,1,173,0,Cash On Delivery,173
+4156,26-Feb-25,718,Lahore,Groceries,1,50,0.1,Credit Card,45
+4157,15-Feb-25,736,Islamabad,Clothing,2,100,0.1,Mobile Wallet,180
+4158,29-Mar-25,739,Karachi,Home Decor,2,50,0.1,Mobile Wallet,90
+4159,29-Mar-25,740,Faisalabad,Clothing,5,100,0.05,Mobile Wallet,475
+4160,2-Feb-25,743,Karachi,Groceries,3,50,0.15,Cash On Delivery,128
+4161,11-Mar-25,740,Islamabad,Clothing,4,150,0.1,Cash On Delivery,540
+4162,24-Feb-25,706,Faisalabad,Clothing,3,100,0.15,Mobile Wallet,255
+4163,31-Jan-25,701,Multan,Electronics,5,150,0,Cash On Delivery,750
+4164,17-Apr-25,703,Lahore,Groceries,1,250,0,Cash On Delivery,250
+4165,27-Apr-25,722,Islamabad,Clothing,3,173,0.05,Cash On Delivery,493
+4166,29-Jan-25,743,Islamabad,Groceries,3,173,0,Cash On Delivery,519
+4167,18-Apr-25,750,Rawalpindi,Clothing,3,300,0,Cash On Delivery,900
+4168,26-Feb-25,720,Islamabad,Electronics,3,100,0,Cash On Delivery,300
+4169,6-Apr-25,733,Lahore,Home Decor,2,100,0.1,Cash On Delivery,180
+4170,6-Mar-25,747,Islamabad,Home Decor,3,173,0.15,Cash On Delivery,441
+4171,22-Apr-25,743,Karachi,Clothing,4,50,0.05,Debit Card,190
+4172,3-Apr-25,716,Karachi,Electronics,1,173,0.15,Credit Card,147
+4173,10-Mar-25,716,Karachi,Clothing,3,300,0,Cash On Delivery,900
+4174,16-Mar-25,701,Karachi,Electronics,1,300,0.05,Mobile Wallet,285
+4175,21-Mar-25,740,Islamabad,Electronics,5,100,0,Credit Card,500
+4176,16-Apr-25,702,Lahore,Groceries,3,200,0,Debit Card,600
+4177,5-Jan-25,708,Karachi,Clothing,1,50,0.05,Cash On Delivery,48
+4178,19-Feb-25,726,Karachi,Electronics,3,300,0,Cash On Delivery,900
+4179,17-Mar-25,726,Faisalabad,Clothing,3,50,0.15,Cash On Delivery,128
+4180,1-May-25,728,Karachi,Electronics,3,150,0.05,Mobile Wallet,428
+4181,31-Jan-25,722,Islamabad,Clothing,3,150,0.1,Cash On Delivery,405
+4182,8-Jan-25,742,Lahore,Groceries,2,50,0.15,Credit Card,85
+4183,28-Jan-25,708,Islamabad,Electronics,1,173,0.1,Debit Card,156
+4184,11-Apr-25,737,Islamabad,Toys,1,173,0.1,Debit Card,156
+4185,28-Jan-25,717,Islamabad,Electronics,2,173,0.1,Credit Card,311
+4186,20-Apr-25,742,Islamabad,Home Decor,5,150,0.05,Credit Card,713
+4187,21-Apr-25,720,Islamabad,Home Decor,1,150,0.05,Cash On Delivery,143
+4188,3-Jan-25,733,Islamabad,Groceries,1,100,0,Mobile Wallet,100
+4189,15-Jan-25,737,Islamabad,Clothing,4,173,0.1,Cash On Delivery,623
+4190,14-Jan-25,733,Islamabad,Toys,5,50,0,Cash On Delivery,250
+4191,8-Feb-25,743,Islamabad,Electronics,1,200,0.15,Mobile Wallet,170
+4192,14-Jan-25,709,Islamabad,Clothing,1,50,0.1,Cash On Delivery,45
+4193,9-Jan-25,745,Islamabad,Groceries,5,300,0.1,Cash On Delivery,1350
+4194,11-Feb-25,706,Islamabad,Groceries,4,250,0.1,Mobile Wallet,900
+4195,12-Apr-25,721,Islamabad,Toys,4,200,0.05,Mobile Wallet,760
+4196,16-Apr-25,727,Islamabad,Clothing,4,300,0,Cash On Delivery,1200
+4197,10-Feb-25,705,Islamabad,Electronics,2,300,0.15,Credit Card,510
+4198,17-Apr-25,723,Islamabad,Clothing,4,50,0,Cash On Delivery,200
+4199,14-Apr-25,742,Islamabad,Electronics,5,250,0.1,Cash On Delivery,1125
+4200,16-Jan-25,703,Islamabad,Electronics,3,173,0.15,Cash On Delivery,441
